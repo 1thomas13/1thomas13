@@ -17,5 +17,5 @@ I’m a Software Engineer from Argentina 🇦🇷. I work mainly with TypeScript
 
 ## 🔗 Links
 
-* 🌐 Portfolio: [https://thomasbarreto.vercel.app/](https://thomasbarreto.vercel.app/)
-* 💼 LinkedIn: [https://www.linkedin.com/in/thomas-barreto-50ab71204/](https://www.linkedin.com/in/thomas-barreto-50ab71204/)
+- 🌐 Portfolio: <a href="https://thomasbarreto.vercel.app/" target="_blank" rel="noopener noreferrer">thomasbarreto.vercel.app</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/thomas-barreto-50ab71204/" target="_blank" rel="noopener noreferrer">linkedin.com/in/thomas-barreto</a>
