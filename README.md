@@ -9,7 +9,7 @@ I’m a Software Engineer from Argentina 🇦🇷. I work mainly with TypeScript
 **TypeScript**, **React**, **Next.js**, **CSS**, **Tailwind**, **Sass**, **Redux**,
 **React Native**, **Expo**,
 **Node.js**, **Express**, **Nest.js**,
-**PostgreSQL**, **MongoDB**, **Supabase**,
+**PostgreSQL**, **Supabase**,
 **Docker**, **Git**, **Linux**, **n8n**,
 **AWS** (EC2, Lambda, S3, RDS, Amplify, CloudFront)
 
